@@ -1,4 +1,11 @@
 {
   "name": "FinalGame",
-  "displayName": "FinalGame"
+  "displayName": "FinalGame",
+  "expo": {
+    "extra": {
+      "eas": {
+        "projectId": "2df2b12c-bb1f-4c1d-b282-56306362c17e"
+      }
+    }
+  }
 }
