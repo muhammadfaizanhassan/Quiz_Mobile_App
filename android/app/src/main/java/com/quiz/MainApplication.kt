@@ -1,4 +1,5 @@
-package com.finalgame
+package com.quiz
+import com.quiz.BuildConfig
 
 import android.app.Application
 import com.facebook.react.PackageList

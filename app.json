@@ -1,6 +1,6 @@
 {
-  "name": "FinalGame",
-  "displayName": "FinalGame",
+  "name": "Quiz",
+  "displayName": "Quiz",
   "expo": {
     "extra": {
       "eas": {

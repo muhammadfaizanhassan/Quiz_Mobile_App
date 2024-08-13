@@ -1,4 +1,5 @@
-package com.finalgame
+package com.quiz
+import com.quiz.BuildConfig
 
 import android.content.BroadcastReceiver
 import android.content.Context
